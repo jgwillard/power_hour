@@ -4,7 +4,7 @@ Takes a file `tracks.txt` in the format "title url", downloads them from YouTube
 
 ## Requirements
 
-`bash`, `python3`, and `yt-dlp` must be available in `$PATH`.
+`bash`, `python3`, `ffmpeg`, and `yt-dlp` must be available in `$PATH`.
 
 ## Usage
 
